@@ -10,3 +10,4 @@ Chrome extension that provides extended search functionality allwoing you to sea
 
 #How to Use the Extension
 Just select any text on the web and then right click. You will then see the option to "Look Up" the highlighted text. 
+![alt tag](https://raw.githubusercontent.com/nav97/Lookup/master/res/screenshot.png)
