@@ -1,0 +1,19 @@
+{
+  "name": "Lookup",
+  "description": "Search features that go beyond!",
+  "version": "1.0",
+  "permissions": ["contextMenus"],
+  "icons" : {
+    "16" : "./res/icon.png",
+    "128" : "./res/icon.png"
+  },
+  "background": {
+    "scripts": ["Lookup.js"]
+  },
+
+  "browser_action":{
+		"default_icon":"./res/icon.png"
+	},
+
+  "manifest_version": 2
+}
