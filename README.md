@@ -3,10 +3,10 @@ Chrome extension that provides extended search functionality allwoing you to sea
 
 #How to Add to Chrome
 1. Download the extention (this repository)
-2. Open 'chrome://extensions' on your Chrome browser
+2. Open `chrome://extensions` on your Chrome browser
 3. Ensure Development mode is enabled
 4. Click "Load unpacked extension"
-5. Select this repository from the pop up a file-selection dialog
+5. Select this repository from the pop up file-selection dialog
 
 #How to Use the Extension
 Just select any text on the web and then right click. You will then see the option to "Lookup" the selected text. 
