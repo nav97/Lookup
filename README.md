@@ -2,7 +2,7 @@
 Chrome extension that provides extended search functionality allwoing you to search for a selection of text made in your browser on Facebook, Twitter, LinkedIn, GitHub, and Wikipedia
 
 #How to Add to Chrome
-1. download the extention (this repository)
+1. Download the extention (this repository)
 2. Open 'chrome://extensions' on your Chrome browser
 3. Ensure Development mode is enabled
 4. Click "Load unpacked extension"
