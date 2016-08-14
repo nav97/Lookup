@@ -9,5 +9,5 @@ Chrome extension that provides extended search functionality allwoing you to sea
 5. Select this repository from the pop up a file-selection dialog
 
 #How to Use the Extension
-Just select any text on the web and then right click. You will then see the option to "Lookup" the highlighted text. 
+Just select any text on the web and then right click. You will then see the option to "Lookup" the selected text. 
 ![alt tag](https://raw.githubusercontent.com/nav97/Lookup/master/res/screenshot.png)
