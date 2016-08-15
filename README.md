@@ -1,5 +1,5 @@
 # Lookup
-Chrome extension that provides extended search functionality allwoing you to search for a selection of text made in your browser on Facebook, Twitter, LinkedIn, GitHub, and Wikipedia
+Chrome extension that provides extended search functionality allowing you to search for a selection of text made in your browser on Facebook, Twitter, LinkedIn, GitHub, or Wikipedia
 
 #How to Add to Chrome
 1. Download the extention (this repository)
