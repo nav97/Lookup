@@ -30,7 +30,7 @@ function onClick(info, tab) {
       index = i;
       if(BASE_URL_NAME[i] === "LinkedIn"){
         if(hasWhiteSpace(searchQuery)){
-        var firstName = searchQuery.substring(1,searchQuery.indexOf(' '));
+        var firstName = searchQuery.substring(0,searchQuery.indexOf(' '));
         var lastName = searchQuery.substring(searchQuery.indexOf(' ') + 1);
         searchQuery = "first=" +firstName + "&last=" + lastName;
         }
