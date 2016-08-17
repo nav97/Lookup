@@ -42,7 +42,8 @@ function onClick(info, tab) {
   }
 
   var url = BASE_URL[index] + searchQuery
-  chrome.tabs.create({"index": 1, "url": url, "selected": true}); 
+  var index = tab.index + 1;
+  chrome.tabs.create({"index": index, "url": url, "selected": true});
 }
 
 
